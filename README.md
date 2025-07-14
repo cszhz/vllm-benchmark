@@ -23,13 +23,13 @@ This repository contains scripts for benchmarking the performance of large langu
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/vllm-benchmark.git
+   git clone https://github.com/cszhz/vllm-benchmark.git
    cd vllm-benchmark
    ```
 
 2. Install the required packages:
    ```
-   pip install openai numpy
+   pip install openai numpy json2table
    ```
 
 ## Usage
